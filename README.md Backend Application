@@ -1,0 +1,19 @@
+Email Sender Backend
+This project is the backend component of the Email Sender application, built using Spring Boot. It allows users to send emails via SMTP using Simple Mail, along with the ability to attach PDFs. The backend API connects with the frontend via Axios, supporting rich text messages, multiple emails, and PDF attachments.
+
+Features
+SMTP Email Sending: Send emails using SMTP protocol with minimal configuration.
+Multiple Email Support: Easily send emails to multiple recipients.
+Rich Text Emails: Supports sending rich-text formatted emails from the frontend.
+PDF Attachments: Attach PDF files to your emails.
+Scalable API: Can be integrated into other applications for email functionality.
+Technology Stack
+Spring Boot: Java framework for building the backend.
+SMTP & Simple Mail: For sending emails.
+JavaMail API: Manages the email sending process.
+Maven: Build automation tool for dependency management and project build.
+Prerequisites
+Before running the application, ensure you have the following installed:
+you have to create one app on google you take help from learn code with durgesh youtube channel there one series Email Sender you watch you getting hole idea 
+Java 8 or higher: Install Java
+Maven: Install Maven
